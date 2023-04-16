@@ -36,12 +36,14 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 
 
 # Giriş
+
 Ülkelerin sosyo-ekonomik yapıları farklıdır, bu farklılık beraberinde farklı yaşamlar getirmektedir. Bazı ülkeler iyi bir gelirle daha refah yaşamlar sürerken, bazıları daha düşük gelirle
 görece daha zorlu şartlarda hayatlarını sürdürmektedir. Ülkelerin ayrışan bu yapılarını ekonomik göstergeler ile açıklamak yeterli değildir. Bu farklılığı daha iyi kavrayabilmek için sosyal
 ve kültürler alanlardan birçok veriye ihtiyacımız vardır. Bu çalışmamda seçtiğim ekonomik
 ve sosyal faktörler ile ülkelere genel sosyo-ekonomik bir hat belirliyor.
 
 ## Çalışmanın Amacı
+
 Çalışmamda seçtiğim 65 ülkeyi, 15 sosyo-ekonomik ölçüt ile birbirleri arasındaki orantının
 yönünü ve gücünü tespit ederek belli yorumlarda bulunmayı amaçlıyorum. Ülkeler arasındaki
 sosyo-ekonomik farklılıkların nedenin üzerinde durup, değişkenler arasında tespit ettiğim
@@ -50,6 +52,7 @@ etkileri nedir, ülkelerin refah seviyelerini ne ölçüde etkilemektedir bunlar
 planlıyorum.
 
 ## Literatür 
+
 Kalkınma denildiği zaman genellikle ekonominin büyümesi olarak düşünülmektedir. Karar vericiler bu yüzden genellikle sosyal alanları göz ardı eder. Sonuç olarak büyüyen ekonomiyle birlikte bir takım sosyo-ekonomik sorunlar ortaya çıkabilir. Bu durum büyümenin gerekli ama yeterli olmadığı, tek başına yaşam kalitesini belirleyen bir gösterge olamayacağı savının kuvvetlenmesine neden olmuştur. @aycsegul2020insani. Bu da bizlere ülkeleri kategorize ederken İnsani Gelişmişlik Endeksi , Yaşam Beklentisi, Yetişkin Okur-Yazarlığı ve Okullaşma gibi faktörleri göz önünde bulundurmamızı sağlamıştır. @taner2011analysis
 Benzer değişkenler ile yapılan, ülkelerin sosyo-ekonomik göstergelerini karşılaştırarak, seçilen ölçütlerin, ülkelerin gelişmişlik düzeylerini ne yönde ve nasıl etkilediğini, seçilen faktörlerin diğer ölçütleri ile olan ilişkisini @erol2013turkiye, kullanılan bu değişkenlerin nasıl kullanılabileceğinin, geçerliliklerinin ve sınırlarının genel çerçevesi çizilmelidir.  @vyas2006constructing.
 
